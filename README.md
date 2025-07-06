@@ -34,13 +34,16 @@ This project was built as a technical assignment.
 _(Please add screenshots of the application here. For example:)_
 
 **Dashboard View (Light & Dark Mode)**  
-![Dashboard](link-to-your-screenshot.png)
+![Dashboard](/screenshots/image1.png)
+![Dashboard](/screenshots/image2.png)
 
 **Add Task Modal with AI Suggestions**  
-![Task Editor](link-to-your-screenshot.png)
+![Task Editor](/screenshots/image3.png)
+![Task Editor](/screenshots/image4.png)
+![Task Editor](/screenshots/image5.png)
 
 **Context Hub with AI Insights**  
-![Context Hub](link-to-your-screenshot.png)
+![Context Hub](/screenshots/image6.png)
 
 ---
 
