@@ -2,8 +2,6 @@
 
 This is a full-stack web application for intelligent task management, built with Django and Next.js, and supercharged with Google's Gemini API. The system uses daily context (messages, emails, notes) to provide smart task suggestions, helping users prioritize and organize their work more effectively.
 
-This project was built as a technical assignment.
-
 ---
 
 ## ✨ Key Features
@@ -30,8 +28,6 @@ This project was built as a technical assignment.
 ---
 
 ## 📸 Screenshots
-
-_(Please add screenshots of the application here. For example:)_
 
 **Dashboard View (Light & Dark Mode)**  
 ![Dashboard](/screenshots/image1.png)
